@@ -9,3 +9,9 @@
  print(not solucao)
  print(solucao)
 
+weverton = "roberto"
+i = 0
+idade_roberto = 24
+
+while(i < idade_roberto):
+	i++
