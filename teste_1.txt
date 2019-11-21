@@ -6,3 +6,4 @@
  
  print(not solucao)
  print(solucao)
+
