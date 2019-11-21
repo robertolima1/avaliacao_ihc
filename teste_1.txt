@@ -14,7 +14,7 @@ raiz = math.sqrt(n)
 solucao = False
 
 for i in range(2, n, 1):
-    solucao = n % i == 0
+    solucao = n % i != 0
 
 print(not solucao)
 print(solucao)
