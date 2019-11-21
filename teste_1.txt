@@ -1,9 +1,12 @@
  solucao = False
  
- for i in range(2, n, 1):
-     if(n % i != 0):
-	solucao = True
- 
+ for j in range(10):
+    for i in range(2, n, 1):
+        if(n % i != 0):
+        solucao = True
+    
+        if(solucao == True):
+            print(solucao)
  print(not solucao)
  print(solucao)
 
