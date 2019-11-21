@@ -3,6 +3,8 @@
  for i in range(2, n, 1):
      if(n % i != 0):
 	solucao = True
+     else:
+         print("Teste")
  
  print(not solucao)
  print(solucao)
