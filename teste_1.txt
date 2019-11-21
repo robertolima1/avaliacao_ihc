@@ -10,3 +10,13 @@
  print(not solucao)
  print(solucao)
 
+
+
+
+
+
+
+
+# teste , teste 
+while(1):
+    print("Oi")
